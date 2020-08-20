@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sherwin</h1>
 
 <div style="align-items:center;">
-![](giphy.gif)
-</div>
 
+</div>
+![](giphy.gif)
 
 
 <!--
