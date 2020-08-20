@@ -1,4 +1,15 @@
-### Hi there 👋
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherwinchia" alt="sherwinchia" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherwinchia&show_icons=true" alt="sherwinchia" /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/sherwinchia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sherwinchia" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/sherwinchia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sherwinchia" height="30" width="30" /></a>
+<a href="https://instagram.com/sherwinchia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sherwinchia" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/sherwinchia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sherwinchia" height="30" width="30" /></a>
+</p>
 
 <!--
 **sherwinchia/sherwinchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href"https://api.spotify.com/v1/me/sherwinchia/currently-playing">HEHEH</a>
+
+
