@@ -1,7 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherwinchia" alt="sherwinchia" /> </p>
-
+<h1 align="center">Hi 👋, I'm Sherwin</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherwinchia&show_icons=true" alt="sherwinchia" /></p>
 
 <p align="center">
