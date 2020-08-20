@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sherwin</h1>
 
+<div style="align-items:center;">
 ![](giphy.gif)
-![](giphy2.gif)
+</div>
+
+
 
 <!--
 **sherwinchia/sherwinchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
