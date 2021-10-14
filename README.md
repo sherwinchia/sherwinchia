@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-![](giphy.gif)
+<div align="center">![](giphy.gif)</div>
 <!--
 
 
