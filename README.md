@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋</h1>
 
-<div align="center">![](giphy.gif)</div>
+
+![](giphy.gif)
 <!--
-
+<h1 align="center">Hi 👋</h1>
 
 **sherwinchia/sherwinchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
